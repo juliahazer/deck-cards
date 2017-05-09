@@ -1,0 +1,124 @@
+Function: deal
+Arguments: (<__main__.Deck object at 0x104acd2b0>,)
+Function: deal
+Arguments: (<__main__.Deck object at 0x104acd2b0>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104acd2b0>,)
+Function: deal
+Arguments: (<__main__.Deck object at 0x104ad8278>,)
+Function: deal
+Arguments: (<__main__.Deck object at 0x104ad8278>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104ad8278>,)
+Function: deal
+Arguments: (<__main__.Deck object at 0x104aad278>,)
+Function: deal
+Arguments: (<__main__.Deck object at 0x104aad278>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aad278>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aad358>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aad358>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104aad358>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104a96c50>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104a96c50>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104a96c50>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104ab5c50>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104ab5c50>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104ab5c50>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aaceb8>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aaceb8>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104aaceb8>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104abb048>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104abb048>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104abb048>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104bf7048>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104bf7048>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104bf7048>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aa6048>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aa6048>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104aa6048>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104a90f60>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104a90f60>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104a90f60>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104aabf60>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104a98f98>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104a98f98>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104abbf98>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104abbf98>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104aacf60>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aacf60>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104aacf60>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104aa7f60>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aa7f60>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104aa7f60>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104ab8c50>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104ab8c50>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104ab8c50>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104ab1c88>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104ab1c88>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104ab1c88>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104aa7f60>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aa7f60>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104aa7f60>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104ab5c50>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104ab5c50>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104ab5c50>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104ab5f98>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104ab5f98>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104ab5f98>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104aaaf98>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aaaf98>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104aaaf98>,)
