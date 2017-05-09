@@ -92,6 +92,9 @@ print(d)
 print(d.shuffle())
 print(d)
 print(d.save())
+# print(d.deal())
+# print(d)
+# print(d.deal())
 
 # print(d.deal())
 
