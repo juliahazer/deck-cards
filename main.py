@@ -24,9 +24,9 @@ class Deck:
     self.removed_cards = []
     
   def create_cards(self):
-    for suit in ["Hearts","Diamonds","Clubs","Spades"]:
-      for value in ["A","2","3","4","5","6","7","8","9","10","J","Q","K"]:
-        self.cards.append(Card(suit, value))
+    suits = ["Hearts","Diamonds","Clubs","Spades"]
+    values = ["A","2","3","4","5","6","7","8","9","10","J","Q","K"]
+    self.cards = [Card(suit, value) for suit in suits for value in values]
 
   @log
   def create_cards_csv(self):
@@ -39,15 +39,13 @@ class Deck:
         self.create_cards()
       #OTHERWISE create the deck from the CSV file
       else:
-        for row in rows:
-          self.cards.append(Card(row[1], row[0]))
+        self.cards = [Card(row[1], row[0]) for row in rows]
   
   @log   
   def deal(self):
-    rand_index = random.randint(0,len(self.cards))
-    print(rand_index)
-    self.removed_cards.append(self.cards[rand_index])
-    return self.cards.pop(rand_index)
+    removed_card = self.cards.pop()
+    self.removed_cards.append(removed_card)
+    return removed_card
   
   @log
   def shuffle(self):

@@ -122,3 +122,29 @@ Function: shuffle
 Arguments: (<__main__.Deck object at 0x104aaaf98>,)
 Function: save
 Arguments: (<__main__.Deck object at 0x104aaaf98>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104ab6a90>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104ab6a90>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104ab6a90>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104aada58>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104aaa7f0>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aaa7f0>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104aaa7f0>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104a9a7f0>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104a9a7f0>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104a9a7f0>,)
+Function: create_cards_csv
+Arguments: (<__main__.Deck object at 0x104aa9a58>,)
+Function: shuffle
+Arguments: (<__main__.Deck object at 0x104aa9a58>,)
+Function: save
+Arguments: (<__main__.Deck object at 0x104aa9a58>,)
