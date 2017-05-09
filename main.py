@@ -50,11 +50,11 @@ class Deck:
   @log
   def shuffle(self):
     """shuffles the Deck class only if the deck is full"""
-    if len(self.cards) == 52:
+    if len(self.cards) != 52:
+      raise ValueError("Only full decks can be shuffled")
+    else:
       random.shuffle(self.cards)
       return "Shuffled!"
-    else:
-      return "Error: Need a full deck to shuffle."
   
   @log
   def save(self):
@@ -84,6 +84,9 @@ class Card:
     
   def __str__(self):
     return "{} of {}".format(self.value, self.suite)
+
+  def __repr__(self):
+    return self.value + ":" + self.suite
 
 d = Deck()
 
